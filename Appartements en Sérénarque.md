@@ -1,0 +1,1 @@
+* Phoebe s’installe de manière pérenne en [[Sérénarque]], avec un pied-à-terre dans un quartier aisé proche des quartiers d'artisans. Elle y prend entre autres contact avec des artisans et des savants et s’intéresse à leurs arts et expertises

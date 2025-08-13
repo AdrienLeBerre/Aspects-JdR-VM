@@ -1,0 +1,5 @@
+- [[Mère de Phoebe]]
+- [[Père de Phoebe]]
+- Ma frangine [[Amandine]]
+- Ma sœur ainée [[Luna]]
+- Moi et mes sœurs avons subi un bannissement, dont mon père déjà mort m'a en partie protégée ([[Azur]] a été utilisée pour ce rituel de bannissement, ainsi qu'une gemme rouge)

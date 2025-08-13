@@ -1,0 +1,1 @@
+S’est développée une base de connaissance à force d’étudier bâtiments et autres ruines d'[[Icopale]] à travers l’empire, depuis sa jeunesse

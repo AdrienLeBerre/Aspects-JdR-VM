@@ -1,0 +1,2 @@
+- A fait l'expérience du monde éthéré en [[Fourche]] et s'est intéressée aux technologies et savoir-faire relatifs à ça (geek éther, mécanique animée, et débutante en chirurgie mécanique et galvanique)
+- S'intéresse plus récemment à la [technomagie Atalantéenne](Atalantë.md), et se souvient d'avoir déjà traduit des technologies dans le passé (pas de son plein gré - [[Esclave mystique]])

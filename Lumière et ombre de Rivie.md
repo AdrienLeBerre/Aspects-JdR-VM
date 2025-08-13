@@ -1,0 +1,3 @@
+- Lors de son premier séjour en [[Rivie]], Phoebe en a profité pour fonder l’orphelinat de la maison des anges et jeter les bases du [[Jardin des Ombres]]
+- Collaboration avec la [[Famille Sternen]]
+- S’est récemment illustrée au pugilat en arrachant un match nul contre [[Balkor l'Invincible]] devant toute l’assemblée

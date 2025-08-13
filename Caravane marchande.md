@@ -1,0 +1,2 @@
+Phoebe investit via les ombres pour mettre en place une caravane marchande entre [[Icopalion]] et le [[Désert d'Icopale]] infranchissable, au-delà de la [[Westrie]]. Elle rencontre des difficultés à cause de bandits psisauriens et des immigrés, recours à l’aide des [[Ailes du désert]] pour l’aider à protéger la caravane.
+- La caravane dégage des profits équivalents à ceux d'une petite compagnie commerciale

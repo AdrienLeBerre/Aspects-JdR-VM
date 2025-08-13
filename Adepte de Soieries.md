@@ -1,0 +1,5 @@
+- Phoebe s'est initiée à la [[Soieries]] en [[Icopale]], domaine dans lequel elle est plutôt douée.
+- Elle est capable de créer des textiles ayant des propriétés comparables à ce qu'on peut faire à l'ère contemporaine
+- Elle n'est actuellement pas meilleure que d'autres tisseurs un minimum compétents en Icopale
+- Porte généralement des tenues de sa propre facture, et ne fabrique des tenues que pour elle, [[Louise]], et le [[Jardin des Ombres]]
+- A une tendance instinctive à vouloir orner ses robes de motifs de plumes de phénix, et à agrémenter ses tenues d’une capuche

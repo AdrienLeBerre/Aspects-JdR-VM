@@ -1,0 +1,1 @@
+A la suite de moult expéditions en [[Amazé]], motivées notamment par [[Jenesser]] contre les [[Simiens]], Phoebe a développé une expérience pratique certaine dans le domaine, et des souvenirs qu'elle préférerait parfois oublier

@@ -1,0 +1,1 @@
+Phoebe a fini par développer sa propre façon de manier ses lames pour exploiter sa force et son explosivité, qu’elle a presque élevée au rang d’art, et qui repose notamment sur le lancer de dagues pour pallier au manque de portée inhérent à son gabarit

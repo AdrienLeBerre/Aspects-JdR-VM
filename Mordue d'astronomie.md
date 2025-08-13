@@ -1,0 +1,1 @@
+Dispose de bonnes connaissances en astronomie et en uranographie

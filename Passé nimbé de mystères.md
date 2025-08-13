@@ -1,0 +1,4 @@
+- Phoebe ne se souvient pas de son passé lointain, si ce n’est quelques épisodes sporadiques, dispersés à travers de nombreux endroits : [[Atalantë]], [[Capharnaüm]], [[Verlande]], [[Dystopia]], [[Icopale]]…
+- A vécu un temps au [[Capharnaüm]]
+- Est venue en Icopale par le pays Verlandais, et elle est arrivée pas loin de la Rivie, où une note mystérieuse lui a indiqué l’emplacement d’une forteresse cachée, occupée par [[No]]
+- A vécu deux ans en [[Rivie]] avant de s’aventurer dans le reste d’Icopale

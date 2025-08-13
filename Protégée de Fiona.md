@@ -1,0 +1,1 @@
+- Contrairement à Jenesser et Azur dont les mères sont Deirdre et Lewella, [[Fiona]] n'est pas la mère de Phoebe, mais elle prend soin d'elle au moins comme une tante.

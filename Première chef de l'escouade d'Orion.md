@@ -1,0 +1,1 @@
+Une escouade de combattants de la [[Famille d'Astérion]], principalement spécialisée dans les opérations clandestines de lutte contre les [[Wyrdiens]]

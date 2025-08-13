@@ -1,0 +1,2 @@
+- Phoebe tombe “par hasard” sur un tableau qu’elle pressent renfermer bien plus qu’il n’en dévoile au premier regard grâce à ses compétences en [[Soieries]], et qu’elle finit par se faire voler par [[Louise]]. 
+* La retrouvant, elle décide de collaborer avec elle pour trouver d’autres tableaux dans le style -> Vive panthère

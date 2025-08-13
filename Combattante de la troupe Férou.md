@@ -1,0 +1,1 @@
+Dans une réalité paradoxale où Phoebe était une mortelle vivant en [[Icopale]], elle faisait partie de la troupe de combattante de sa mère [[Lucy de Férou]]

@@ -1,0 +1,5 @@
+- Phoebe dispose de ses propres appartements en [[Atalantë]], dans le chateau
+- Il s'y trouve notamment un miroir à travers duquel elle avait un temps la sensation d'être observée
+- Il existait une faille dans les miroirs, derrière laquelle une entité l'observe. Selon les endroits, cette faille était plus ou moins béante
+- Présence d’une grande armoire remplie de bazar plus ou moins technologique (et à des degrés de démontage divers)
+- Présence d'une sphère noire ressemblant à [[SP07]]

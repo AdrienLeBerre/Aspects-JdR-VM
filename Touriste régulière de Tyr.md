@@ -1,0 +1,5 @@
+- Phoebe se rend régulièrement en [[Tyr]] (sans vraiment maîtriser le trajet)
+- Essaye depuis un bon moment de s'y rendre consciemment, sans succès
+- N'a aucun problème pour demeurer en Tyr sur le temps long
+- Peut se rendre au [[Tracé]] de Tyr et l'utiliser, tracé avec lequel elle semble partager un lien particulier
+- Peut utiliser à distance le pouvoir du tracé, mais c'est plus long (elle doit être en mouvement pour l'utiliser)

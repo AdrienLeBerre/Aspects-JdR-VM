@@ -1,0 +1,2 @@
+- Phoebe dispose d'autorisations lui facilitant grandement l'usage de [[Magie Primale]] dans le [[Désert d'Icopale]] : ses sorts y sont plus faciles et ne risquent pas de provoquer des résurgences abyssales
+- La magie primale est bannie sur le territoire d'[[Icopale]]

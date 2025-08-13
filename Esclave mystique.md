@@ -1,0 +1,3 @@
+Phoebe se souvient d'avoir été invoquée par plusieurs personne comme une pantin mue par la volonté d'autrui
+* [[Internext]] se servait de focus d'elle pour l'invoquer et lui faire traduire illégalement des technologies entre zones aux mystiques différentes
+* C'est notamment pour arquebouter son existence dans le réel et empêcher l'invocation d'émanations contrôlables d'elle que Phoebe a participé à la fondation de [[Verlande]]
