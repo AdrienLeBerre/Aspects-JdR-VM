@@ -1,1 +1,0 @@
-Dans une autre réalité, [[Phoebe]] a été la nièce du duc de la [[Famille d'Astérion]], et en avait appris notamment les arts militaires

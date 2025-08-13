@@ -1,1 +1,0 @@
-Une gerbille d'[[Encre]] que Phoebe a eu un moment à ses côtés
