@@ -1,0 +1,3 @@
+# Liste des aspects de Phoebe
+
+Il s'agit d'un git push rapide du dossier Obsidian correspondant, d'où le formatage des fichiers et l'absence des titres au début des fichiers...
