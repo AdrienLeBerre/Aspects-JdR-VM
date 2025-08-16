@@ -6,3 +6,5 @@ L'incarnation actuelle de [[Phoebe]], du fait de l'implication du [[Univers de V
 		* Légalement cette incarnation est soutenue par le [[Univers de Vincent/PNJ/Phénix|Phénix]]
 		* Elle devrait être liée à des éléments naturels constitutifs du rêve mais le Phénix l'en dispense
 		* L'incarnation de Phoebe semble distribuée entre plusieurs endroits
+
+Cette incarnation serait associée à la pureté en [[Verlande]]
