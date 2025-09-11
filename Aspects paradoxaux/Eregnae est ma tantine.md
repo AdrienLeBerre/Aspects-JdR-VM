@@ -1,1 +1,0 @@
-Phoebe a longtemps entretenu une relation privilégiée avec [[Eregnae]], qu'elle considérait comme une tante, et avec laquelle elle a voyagé à travers les mondes
