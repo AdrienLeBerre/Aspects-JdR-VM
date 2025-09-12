@@ -8,7 +8,7 @@
 - N'aime généralement pas les fioritures de forme et autres froufrous, vêtements bouffants, fraises, cols ou chapeaux exubérants et autres robes nécessitant la charpente d'une cathédrale pour de déployer, leur préférant des vêtements épousant davantage ses formes, mais fait quand même de son mieux pour respecter le style de la culture dans laquelle elle se trouve.
 
 
-Armoiries : une étoile, avec au centre une gemme rouge, et de part et d’autre de l’étoile une aile d’ange et une aile de dragon
+Armoiries : une étoile, avec au centre une gemme rouge, et de part et d’autre de l’étoile une aile d’ange et une aile de dragon : [[file-LwhrgyJTR5ZhMRCMUqA4pY.webp|Armoiries stylisées]]
 * L'aile d'ange vient de l'intervention du [[Duché du Phénix]] dans la fondation de Verlande
 * L'étoile vient de la façon dont Phoebe a pris forme humaine à partir d'une gemme rouge, grâce au pouvoir de [[l'Etoile]] : la présence de ce pouvoir dans sa vie était le coût à payer
 	* Sensation de m'être alors réveillée d'un cauchemar, mais m'en souvenir ne passerait pas par le contrat mais par l'Astre
