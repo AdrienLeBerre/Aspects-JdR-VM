@@ -1,8 +1,8 @@
 - Phoebe est une immortelle qui vient d’[[Atalantë]], où elle a passé une partie de sa jeunesse
 - Dispose des capacités physiques propres aux immortels d'Atalantë
 - Gabarit : fine et de hauteur moyenne, taille fine, poitrine modeste, musculature qui sans être apparente ne dessert pas ses formes
-- Cheveux roux saturé/rouge/magenta selon l'éclairage et les reflets, généralement arrangés en une longue tresse descendant jusqu'au bas du dos (noués généralement au bout par une boucle qu'elle aime particulièrement, en forme de dragon s'enroulant autour de la tresse)
-- Visage délicat, pas joufflu mais pas creusé non plus, ni davantage ridé. Lèvres fines, et iris dorés
+- Cheveux roux saturé/rouge/magenta selon l'éclairage et les reflets, généralement arrangés en une longue tresse descendant jusqu'au bas du dos (noués généralement au bout par une boucle qu'elle aime particulièrement, en forme de dragon s'enroulant autour de la tresse) ou en queue de cheval
+- Visage délicat, pas joufflu mais pas creusé non plus, ni davantage ridé. Lèvres fines, et iris dorés : [[Best.png]] tant pour les traits du visage que la silhouette générale
 - Peau pâle : elle ne rougit ni ne bronze facilement (et préfère de toutes façon la plongée dans les livres aux bains de Soleil)
 - Elle aime bien le rouge mais c'est généralement compliqué de réussir à ne pas le faire jurer avec ses cheveux, du coup elle opte généralement plutôt pour des tenues bleu nuit agrémentées de blanc et/ou de doré (formant souvent des motifs évoquant des dragons, des anges, et/ou des étoiles), et réserve le rouge pour les ornements (bijoux en rubis, intérieur d'une cape, etc...). Arbore souvent si le contexte s'y prête un rubis ou gemme rouge similaire sur la poitrine ou à la base du cou, soit en pendentif, soit incrusté dans le tissu
 - N'aime généralement pas les fioritures de forme et autres froufrous, vêtements bouffants, fraises, cols ou chapeaux exubérants et autres robes nécessitant la charpente d'une cathédrale pour de déployer, leur préférant des vêtements épousant davantage ses formes, mais fait quand même de son mieux pour respecter le style de la culture dans laquelle elle se trouve.
