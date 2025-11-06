@@ -1,0 +1,1 @@
+Possède un sac sans fond
