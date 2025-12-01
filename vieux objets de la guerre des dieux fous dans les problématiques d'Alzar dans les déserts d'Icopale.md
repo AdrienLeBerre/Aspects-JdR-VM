@@ -1,0 +1,1 @@
+Phoebe a récupéré des objets de la [[guerre des dieux fous]] dans les [[Désert d'Icopale]]
