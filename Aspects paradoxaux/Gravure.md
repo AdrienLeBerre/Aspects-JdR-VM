@@ -1,0 +1,2 @@
+Parmi ses connaissances et les gens qu’elle connaît en [[Sérénarque]], Phoebe a particulièrement pris le temps de s’intéresser à la gravure sur divers types de matériaux, parachevant sa maîtrise du dessin développée par [[Mordue d'astronomie]] et [[Architecte Icopalienne antique]].
+- Maîtrise le dessin et la gravure
