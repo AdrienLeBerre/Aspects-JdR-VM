@@ -9,4 +9,4 @@ L'incarnation actuelle de [[Phoebe]], du fait de l'implication du [[Univers de V
 
 Cette incarnation serait associée à la pureté en [[Verlande]]
 
-Il s'agit d'une incarnation qu'elle conservait d'une version précédente de l'univers, et qu'elle a ressorti du duché du Phénix pour l'insérer en Verlande (cf problèmes avec [[Le monde me ment]]/[[Esclave mystique]])
+Il s'agit d'une incarnation qu'elle conservait d'une version précédente de l'univers, et qu'elle a ressorti du duché du Phénix pour l'insérer en Verlande (cf problèmes avec [[Univers de Vincent/Aspects/Aspects paradoxaux/Le monde me ment]]/[[Esclave mystique]])
