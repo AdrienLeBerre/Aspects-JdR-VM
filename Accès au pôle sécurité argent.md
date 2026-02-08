@@ -1,0 +1,1 @@
+On peut accéder à une pièce pleine de miroirs et avec un tracé d'[[Atalantë]] au sol
