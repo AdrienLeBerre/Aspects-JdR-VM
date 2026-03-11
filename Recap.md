@@ -36,7 +36,7 @@ Phoebe veut toujours apprendre des choses, surtout si ça lui permet de mieux co
 #### Loyale
 Phoebe ne laissera pas un proche en difficulté
 #### Désir de créer
-Phoebe veut créer des choses, idéalement qui lui appartiendraient en partie
+Phoebe veut créer des choses, idéalement qui lui appartiendraient au moins en partie
 ### Négatif
 #### Méfiante
 Phoebe ne fait pas facilement confiance aux autres : elle s'attend à ce qu'on la lâche, qu'on ébruite ses secrets, qu'on trahisse sa confiance...
@@ -49,7 +49,7 @@ Phoebe a tendance à vouloir se trouver un coin où on la laissera vivre une exi
 -------------------------
 ## Intérêts divers/objectifs
 ### Arts
-Phoebe s'intéresse aux arts, et apprécie les activités pouvant impliquer de nombreuses formes d'art. Même dans sa vie quotidienne, elle conceptualise certaines disciplines comme l'écriture ou la démonologie comme des formes d'arts, et s'applique en les pratiquant. Elle cherche par ailleurs à créer de belles choses
+Phoebe s'intéresse aux arts, et apprécie les activités pouvant impliquer de nombreuses formes d'art. Même dans sa vie quotidienne, elle conceptualise certaines disciplines comme l'écriture ou la démonologie comme des formes d'arts, et s'applique en les pratiquant. Elle cherche par ailleurs à créer de belles choses, quitte à y passer plus de temps
 ### Accumuler des moyens
 Phoebe n'aime pas l'idée de dépendre d'un patron, donc elle cherche à accumuler ses propres moyens et à les défendre
 ### Apprendre des secrets sur la réalité
@@ -68,8 +68,8 @@ Phoebe cherche des matériaux et des techniques pour se construire une résidenc
 ### Les montagnes
 Phoebe aime tout particulièrement les régions montagneuses encore assez sauvages
 ### Le patinage artistique
-Phoebe apprécie cette pratique réunissant plusieurs formes d'art : musique, danse, soieries, dessin avec les trajectoires des patins sur la glace...
+Phoebe apprécie cette pratique réunissant plusieurs formes d'art : musique, danse, soieries, dessin avec les trajectoires des patins sur la glace... Dans l'idéal elle pratique ça pour elle même, sur un lac gelé de montagne
 ### La Soierie
 Phoebe aime bien la soierie, confectionner ses propres tenues, notamment celles de Louise
 ### Avoir des animaux de compagnie
-Phoebe a toujours été plus à l'aise avec des animaux de compagnie qu'avec des humains, et a tendance à accumuler les animaux de compagnie
+Phoebe a toujours été plus à l'aise avec des animaux de compagnie qu'avec des humains, et a tendance à les accumuler
