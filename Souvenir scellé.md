@@ -1,0 +1,1 @@
+Souvenir du passage depuis [[Ipsos]] dans un endroit lié aux enjeux entre [[Birgeit]] et [[Dana]], scellé par une puissante magie mentale
