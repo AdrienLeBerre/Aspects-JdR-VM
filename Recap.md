@@ -1,0 +1,75 @@
+Récapitulatif de la personnalité de [[Phoebe]]
+
+## Valeurs 
+### Juste échange
+Phoebe n'aime pas se sentir volée, trompée, ou même utilisée : proches exceptés, si quelqu'un tire profit de ce qu'elle a fait, elle attend de cette personne une rétribution à la mesure des bénéfices obtenus. 
+De la même manière, elle ne cherche ni à extorquer les autres, ni à les rouler.
+### Défendre la Réalité
+Phoebe veut défendre la Réalité. En revanche, elle marque une distinction claire entre la réalité et les intérêts des grands royaumes démiurgiques.
+
+----------------------
+## Eléments centraux
+
+### Tient à son indépendance
+Phoebe abhorre l'idée de se faire posséder ou asservir, peu importe ce qu'on pourrait lui offrir en retour
+Elle considère de même que des éléments fondamentaux de son existence et de son identité, comme son propre corps, ses souvenirs, ou son esprit n'appartiennent qu'à elle, donc par exemple :
+* Envisage d'un très mauvais œil qu'on puisse poser des revendications dans ses rêves
+* Elle décidera quand elle se mariera, c'est-à-dire jamais
+* N'aime pas du tout se séparer d'un fragment d'elle (comme un aspect) et le laisser à la portée de quelqu'un
+Elle considère que les droits mystiques accordés par d'autres peuvent être repris aussi facilement qu'ils ont été accordés, donc préfère de loin s'intéresser aux formes de pouvoir n'en dépendant pas (connaissances, artefacts, ducats...)
+### Tient à ses proches
+Phoebe n'a que très peu de proches (dans l'ordre) :
+* Sa famille proche :
+	* [[No]], [[Brand]], [[Gwilhem]], [[Shinno]], [[Louise]] ([[Amandine]] ?)
+	* Ses tantes [[Fiona]], [[Lewella]] et [[Deirdre]]
+	* Ses cousines [[Azur]] et [[Jenesser]]
+* Ses animaux (de très bons amis): Kaoryne (sa chouette), Comète (son cheval)...
+* Elle sociabilise peu et est plutôt misanthrope, donc elle n'a qu'assez peu d'amis. En revanche, elle y tient
+Elle n'aime pas du tout l'idée qu'un de ses proches soit en danger, elle veut les aider, et déteste s'engueuler avec eux (surtout avec sa mère et Fiona, qui ont en plus la fâcheuse tendance à avoir toujours raison)
+
+---------------------
+## Caractère
+Positif/négatif au sens où ça l'encourage ou l'inhibe à agir
+### Positif
+#### Curieuse
+Phoebe veut toujours apprendre des choses, surtout si ça lui permet de mieux comprendre le monde et bricoler avec. Il est facile de la convaincre de faire des choses en échange de nouveaux savoirs 
+#### Loyale
+Phoebe ne laissera pas un proche en difficulté
+#### Désir de créer
+Phoebe veut créer des choses, idéalement qui lui appartiendraient en partie
+### Négatif
+#### Méfiante
+Phoebe ne fait pas facilement confiance aux autres : elle s'attend à ce qu'on la lâche, qu'on ébruite ses secrets, qu'on trahisse sa confiance...
+#### Avare
+Phoebe tient à ses possessions, qu'il s'agisse de ses choses ou de ses secrets... Et rechigne à s'en séparer
+* Bon, point positif en revanche : clairement, tu peux lui faire confiance pour garder des secrets : entre sa propension à veiller dessus et son espoir que si elle se montre digne de confiance tu lui en confieras d'autre, elle n'a aucune envie de révéler les secrets des autres
+#### Vie tranquille
+Phoebe a tendance à vouloir se trouver un coin où on la laissera vivre une existence tranquille sans la déranger ni l'empêcher d'y faire ce qu'elle souhaite
+
+-------------------------
+## Intérêts divers/objectifs
+### Arts
+Phoebe s'intéresse aux arts, et apprécie les activités pouvant impliquer de nombreuses formes d'art. Même dans sa vie quotidienne, elle conceptualise certaines disciplines comme l'écriture ou la démonologie comme des formes d'arts, et s'applique en les pratiquant. Elle cherche par ailleurs à créer de belles choses
+### Accumuler des moyens
+Phoebe n'aime pas l'idée de dépendre d'un patron, donc elle cherche à accumuler ses propres moyens et à les défendre
+### Apprendre des secrets sur la réalité
+Phoebe cherche toujours de nouvelles connaissances fondamentales sur la réalité, pour la modeler, pour la structurer, pour la soutenir...
+### S'améliorer en Démonologie
+Phoebe est très érudite en démonologie, notamment avec le Contrat. Maintenant, elle aimerait réussir à disposer des mêmes compétences sans lui (notamment en ce qui concerne la culture générale et les automatismes), se constituer des stocks de moyens de paiements de contrats démonologiques, et idéalement être capable de mettre en place des contrats solides même hors de la réalité sans avoir besoin d'y mettre un fragment d'elle...
+### Régler son problème de Hantise
+Phoebe est gênée dans sa pratique artistique par la [[Hantise]], et souhaite régler cela
+### Réunir sa famille
+Son père et sa sœur sont actuellement bannis, ce qu'elle est loin d'apprécier
+### Se construire un nid tranquille
+Phoebe cherche des matériaux et des techniques pour se construire une résidence, en haut d'une montagne, qui pourrait dissuader d'attaquer même des immortels
+
+------------------------------------------
+## Lubies
+### Les montagnes
+Phoebe aime tout particulièrement les régions montagneuses encore assez sauvages
+### Le patinage artistique
+Phoebe apprécie cette pratique réunissant plusieurs formes d'art : musique, danse, soieries, dessin avec les trajectoires des patins sur la glace...
+### La Soierie
+Phoebe aime bien la soierie, confectionner ses propres tenues, notamment celles de Louise
+### Avoir des animaux de compagnie
+Phoebe a toujours été plus à l'aise avec des animaux de compagnie qu'avec des humains, et a tendance à accumuler les animaux de compagnie
