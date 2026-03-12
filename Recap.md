@@ -1,7 +1,7 @@
 Récapitulatif de la personnalité de [[Phoebe]].
 
 ## Valeurs 
-### Juste échange
+### Juste échange/Commerce équitable
 Phoebe n'aime pas se sentir volée, trompée, ou même utilisée : proches exceptés, si quelqu'un tire profit de ce qu'elle a fait, elle attend de cette personne une rétribution à la mesure des bénéfices obtenus. 
 De la même manière, elle ne cherche ni à extorquer les autres, ni à les rouler.
 ### Défendre la Réalité
@@ -12,7 +12,7 @@ Phoebe veut défendre la Réalité. En revanche, elle marque une distinction cla
 
 ### Tient à son indépendance
 Phoebe abhorre l'idée de se faire posséder ou asservir, peu importe ce qu'on pourrait lui offrir en retour.
-Elle considère de même que des éléments fondamentaux de son existence et de son identité, comme son propre corps, ses souvenirs, ou son esprit n'appartiennent qu'à elle, donc par exemple :
+Elle considère de même que des éléments fondamentaux de son existence et de son identité, comme son propre corps, ses souvenirs, ou son esprit n'appartiennent qu'à elle, donc par exemple : 
 * Envisage d'un très mauvais œil qu'on puisse poser des revendications dans ses rêves
 * Elle décidera quand elle se mariera, c'est-à-dire jamais.
 * N'aime pas du tout se séparer d'un fragment d'elle (comme un aspect) et le laisser à la portée de quelqu'un.
