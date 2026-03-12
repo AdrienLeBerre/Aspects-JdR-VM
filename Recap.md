@@ -16,6 +16,7 @@ Elle considère de même que des éléments fondamentaux de son existence et de 
 * Envisage d'un très mauvais œil qu'on puisse poser des revendications dans ses rêves
 * Elle décidera quand elle se mariera, c'est-à-dire jamais.
 * N'aime pas du tout se séparer d'un fragment d'elle (comme un aspect) et le laisser à la portée de quelqu'un.
+
 Elle considère que les droits mystiques accordés par d'autres peuvent être repris aussi facilement qu'ils ont été accordés, donc préfère de loin s'intéresser aux formes de pouvoir n'en dépendant pas (connaissances, artefacts, ducats...).
 ### Tient à ses proches
 Phoebe n'a que très peu de proches (dans l'ordre) :
@@ -25,6 +26,7 @@ Phoebe n'a que très peu de proches (dans l'ordre) :
 	* Ses cousines [[Azur]] et [[Jenesser]]
 * Ses animaux (de très bons amis): Kaoryne (sa chouette), Comète (son cheval)...
 * Elle sociabilise peu et est plutôt misanthrope, donc elle n'a qu'assez peu d'amis. En revanche, elle y tient.
+
 Elle n'aime pas du tout l'idée qu'un de ses proches soit en danger, elle veut les aider, et déteste s'engueuler avec eux (surtout avec sa mère et Fiona, qui ont en plus la fâcheuse tendance à avoir toujours raison).
 
 ---------------------
@@ -70,7 +72,7 @@ Phoebe aime tout particulièrement les régions montagneuses encore assez sauvag
 ### Le patinage artistique
 Phoebe apprécie cette pratique réunissant plusieurs formes d'art : musique, danse, soieries, dessin avec les trajectoires des patins sur la glace... Dans l'idéal elle pratique ça pour elle même, sur un lac gelé de montagne.
 ### La Soierie
-Phoebe aime bien la soierie, confectionner ses propres tenues, notamment celles de Louise.
+Phoebe aime bien la soierie et confectionner ses propres tenues, (bon, avec la hantise, surtout celles de Louise).
 ### Avoir des animaux de compagnie
 Phoebe a toujours été plus à l'aise avec des animaux de compagnie qu'avec des humains, et a tendance à les accumuler.
 
