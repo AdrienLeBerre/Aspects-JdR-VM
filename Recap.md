@@ -84,6 +84,6 @@ Phoebe cherche des matériaux, des connaissances, et un endroit pour se construi
 * Pentacles démonologiques pour maîtriser les conditions mystiques de l'endroit et défendre contre des attaques.
 * Connaissances sur comment se défendre d'attaques dimensionnelles/d'immortels (recherches en cours à la bibliothèque d'Odin).
 
-### Problèmes à régler
+### Problèmes personnels à régler
 #### Hantise
 Régler son problème de hantise pour reprendre le contrôle de ce qu'elle crée dans la Folie.
