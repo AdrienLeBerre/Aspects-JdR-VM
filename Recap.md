@@ -46,7 +46,7 @@ Phoebe ne fait pas facilement confiance aux autres : elle s'attend à ce qu'on l
 Phoebe tient à ses possessions, qu'il s'agisse de ses choses ou de ses secrets... Et rechigne à s'en séparer.
 * Bon, point positif en revanche : clairement, tu peux lui faire confiance pour garder des secrets : entre sa propension à veiller dessus et son espoir que si elle se montre digne de confiance tu lui en confieras d'autre, elle n'a aucune envie de révéler les secrets des autres.
 #### Vie tranquille
-Phoebe a tendance à vouloir se trouver un coin où on la laissera vivre une existence tranquille sans la déranger ni l'empêcher d'y faire ce qu'elle souhaite.
+Phoebe a tendance à vouloir se trouver un coin où on la laissera vivre une existence tranquille sans la déranger ni l'empêcher d'y faire ce qu'elle souhaite : ça peut la pousser à vouloir défendre un endroit, mais aussi à ne pas vouloir venir quelque part...
 
 -------------------------
 ## Intérêts divers/objectifs
