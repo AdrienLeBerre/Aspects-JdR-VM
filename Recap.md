@@ -1,5 +1,4 @@
 Récapitulatif de la personnalité de [[Phoebe]].
-
 ## Valeurs 
 ### Juste échange/Commerce équitable
 Phoebe n'aime pas se sentir volée, trompée, ou même utilisée : proches exceptés, si quelqu'un tire profit de ce qu'elle a fait, elle attend de cette personne une rétribution à la mesure des bénéfices obtenus. 
@@ -57,7 +56,7 @@ Phoebe n'aime pas l'idée de dépendre d'un patron, donc elle cherche à accumul
 ### Apprendre des secrets sur la réalité
 Phoebe cherche toujours de nouvelles connaissances fondamentales sur la réalité, pour la modeler, pour la structurer, pour la soutenir...
 ### S'améliorer en Démonologie
-Phoebe est très érudite en démonologie, notamment avec le Contrat. Maintenant, elle aimerait réussir à disposer des mêmes compétences sans lui (notamment en ce qui concerne la culture générale et les automatismes), se constituer des stocks de moyens de paiements de contrats démonologiques, et idéalement être capable de mettre en place des contrats solides même hors de la réalité sans avoir besoin d'y mettre un fragment d'elle...
+Phoebe est très érudite en [[Démonologie]], notamment avec le Contrat. Maintenant, elle aimerait réussir à disposer des mêmes compétences sans lui (notamment en ce qui concerne la culture générale et les automatismes), se constituer des stocks de moyens de paiements de contrats démonologiques, et idéalement être capable de mettre en place des contrats solides même hors de la réalité sans avoir besoin d'y mettre un fragment d'elle...
 ### Régler son problème de Hantise
 Phoebe est gênée dans sa pratique artistique par la [[Hantise]], et souhaite régler cela. En particulier lorsqu'elle produit une œuvre, cela résonne dans la Folie, et les créations engendrées sont détournées pour s'attaquer notamment à No
 ### Réunir sa famille
@@ -85,7 +84,14 @@ Phoebe cherche des matériaux, des connaissances, et un endroit pour se construi
 * Matériaux de construction spéciaux (principal objet de la quête).
 * Pentacles démonologiques pour maîtriser les conditions mystiques de l'endroit et défendre contre des attaques.
 * Connaissances sur comment se défendre d'attaques dimensionnelles/d'immortels (recherches en cours à la bibliothèque d'Odin).
-
 ### Problèmes personnels à régler
 #### Hantise
 Régler son problème de hantise pour reprendre le contrôle de ce qu'elle crée dans la Folie.
+#### Verlande
+Retrouver un intérêt à [[Verlande]], car ses droits mystiques sur l'endroit ont été cédés rétroactivement à No à un moment, et ses souvenirs d'autres trucs intéressants sont dans le blanc.
+### Autres affaires 
+#### Pouvoir enchaîné 
+Aide [[H]] dans son histoire de pouvoir enchaîné par [[Vortigern]], dans l'espoir d'une récompense une fois celui-ci libéré
+#### Traditions
+Ça aurait été sans doute une quête s'il ne s'agissait pas d'apprendre des trucs... Phoebe s'intéresse aux [[Traditions]] par le prisme de la démonologie, et a repris les recherches de Louise à la bibliothèque d'Odin, dans le but de restaurer un corpus de connaissances théoriques à ce sujet. 
+Étape actuelle : faire des mesures démonologiques durant différentes cérémonies et fêtes liées aux Traditions dans diverses cultures, et potentiellement se renseigner auprès de factions druidiques de [[Stellaria]]
