@@ -24,7 +24,7 @@ Phoebe n'a que très peu de proches (dans l'ordre) :
 	* Ses tantes [[Fiona]], [[Lewella]] et [[Deirdre]]
 	* Ses cousines [[Azur]] et [[Jenesser]]
 * Ses animaux (de très bons amis): Kaoryne (sa chouette), Comète (son cheval)...
-* Elle sociabilise peu et est plutôt misanthrope, donc elle n'a qu'assez peu d'amis. En revanche, elle y tient.
+* Ses amis. Elle sociabilise le strict minimum, ou pas loin, et est plutôt misanthrope, donc elle n'a qu'assez peu. En revanche, ses vrais amis (pas que des connaissances régulières), elle y tient.
 
 Elle n'aime pas du tout l'idée qu'un de ses proches soit en danger, elle veut les aider, et déteste s'engueuler avec eux (surtout avec sa mère et Fiona, qui ont en plus la fâcheuse tendance à avoir toujours raison).
 
@@ -91,7 +91,7 @@ Régler son problème de hantise pour reprendre le contrôle de ce qu'elle crée
 Retrouver un intérêt à [[Verlande]], car ses droits mystiques sur l'endroit ont été cédés rétroactivement à No à un moment, et ses souvenirs d'autres trucs intéressants sont dans le blanc.
 ### Autres affaires 
 #### Pouvoir enchaîné 
-Aide [[H]] dans son histoire de pouvoir enchaîné par [[Vortigern]], dans l'espoir d'une récompense une fois celui-ci libéré
+Aide [[H]] dans son histoire de pouvoir enchaîné par [[Vortigern]], dans l'espoir d'une récompense une fois celui-ci libéré.
 #### Traditions
 Ça aurait été sans doute une quête s'il ne s'agissait pas d'apprendre des trucs... Phoebe s'intéresse aux [[Traditions]] par le prisme de la démonologie, et a repris les recherches de Louise à la bibliothèque d'Odin, dans le but de restaurer un corpus de connaissances théoriques à ce sujet. 
-Étape actuelle : faire des mesures démonologiques durant différentes cérémonies et fêtes liées aux Traditions dans diverses cultures, et potentiellement se renseigner auprès de factions druidiques de [[Stellaria]]
+Étape actuelle : faire des mesures démonologiques durant différentes cérémonies et fêtes liées aux Traditions dans diverses cultures, et potentiellement se renseigner auprès de factions druidiques de [[Stellaria]].
