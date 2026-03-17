@@ -95,3 +95,5 @@ Aide [[H]] dans son histoire de pouvoir enchaîné par [[Vortigern]], dans l'esp
 #### Traditions
 Ça aurait été sans doute une quête s'il ne s'agissait pas d'apprendre des trucs... Phoebe s'intéresse aux [[Traditions]] par le prisme de la démonologie, et a repris les recherches de Louise à la bibliothèque d'Odin, dans le but de restaurer un corpus de connaissances théoriques à ce sujet. 
 Étape actuelle : faire des mesures démonologiques durant différentes cérémonies et fêtes liées aux Traditions dans diverses cultures, et potentiellement se renseigner auprès de factions druidiques de [[Stellaria]].
+#### Magie primale
+Se confronter à des trucs symboliquement et mystiquement notables dans ses Arcanes
