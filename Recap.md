@@ -45,7 +45,7 @@ Phoebe ne fait pas facilement confiance aux autres : elle s'attend à ce qu'on l
 Phoebe tient à ses possessions, qu'il s'agisse de ses choses ou de ses secrets... Et rechigne à s'en séparer.
 * Bon, point positif en revanche : clairement, tu peux lui faire confiance pour garder des secrets : entre sa propension à veiller dessus et son espoir que si elle se montre digne de confiance tu lui en confieras d'autre, elle n'a aucune envie de révéler les secrets des autres.
 #### Une place au Soleil
-Phoebe essaye de trouver une intégration la plus indépendante possible "dans les royaumes qu'elle fréquente"... Et cherche à manœuvrer pour maximiser ces possibilités, par exemple en acceptant d'aider des gens en échange de garanties d'indépendance renforcée(si).
+Phoebe essaye de trouver une intégration la plus indépendante possible "dans les royaumes qu'elle fréquente"... Et cherche à manœuvrer pour maximiser ces possibilités, par exemple en acceptant d'aider des gens en échange de garanties d'indépendance renforcée(s).
 
 -------------------------
 ## Intérêts divers/objectifs
