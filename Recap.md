@@ -20,8 +20,9 @@ Elle considère que les droits mystiques accordés par d'autres peuvent être re
 ### Tient à ses proches
 Phoebe n'a que très peu de proches (dans l'ordre) :
 * Sa famille proche :
-	* [[No]], [[Brand]], [[Gwilhem]], [[Shinno]], [[Louise]] ([[Amandine]] ?).
+	* [[No]], [[Gwilhem]], [[Shinno]], [[Louise]].
 	* Ses tantes [[Fiona]], [[Lewella]] et [[Deirdre]], et [[Eregnae]] qu'elle considère comme une tante.
+	* [[Brand]] et [[Amandine]]
 	* Ses cousines [[Azur]] et [[Jenesser]].
 * Ses animaux (de très bons amis): Kaoryne (sa chouette), Comète (son cheval)...
 * Ses amis. Elle sociabilise le strict minimum, ou pas loin, et est plutôt misanthrope, donc elle n'en a qu'assez peu. En revanche, ses vrais amis (pas que des connaissances régulières), elle y tient.
