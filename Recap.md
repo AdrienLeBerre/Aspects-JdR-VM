@@ -75,6 +75,8 @@ Phoebe apprécie cette pratique réunissant plusieurs formes d'art : musique, da
 Phoebe aime bien la soierie et confectionner ses propres tenues, (bon, avec la hantise, surtout celles de Louise).
 ### Avoir des animaux de compagnie
 Phoebe a toujours été plus à l'aise avec des animaux de compagnie qu'avec des humains, et a tendance à les accumuler.
+### La prestidigitation
+Phoebe aime bien la prestidigitation, et ça l'aide à dissimuler ses usages de magies.
 
 ----------------------------
 ## Enjeux
