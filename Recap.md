@@ -24,7 +24,7 @@ Phoebe n'a que très peu de proches (dans l'ordre) :
 	* Ses tantes [[Fiona]], [[Lewella]] et [[Deirdre]], et [[Eregnae]] qu'elle considère comme une tante.
 	* [[Brand]] et [[Amandine]]
 	* Ses cousines [[Azur]] et [[Jenesser]].
-* Ses animaux (de très bons amis): Kaoryne (sa chouette), Comète (son cheval)...
+* Ses animaux (de très bons amis): [[Kaoryne]], [[Comète]], [[Lévi]]...
 * Ses amis. Elle sociabilise le strict minimum, ou pas loin, et est plutôt misanthrope, donc elle n'en a qu'assez peu. En revanche, ses vrais amis (pas que des connaissances régulières), elle y tient.
 
 Elle n'aime pas du tout l'idée qu'un de ses proches soit en danger, elle veut les aider, et déteste s'engueuler avec eux (surtout avec sa mère et Fiona, qui ont en plus la fâcheuse tendance à avoir toujours raison).
