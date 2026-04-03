@@ -20,7 +20,7 @@ Elle considère que les droits mystiques accordés par d'autres peuvent être re
 ### Tient à ses proches
 Phoebe n'a que très peu de proches (dans l'ordre) :
 * Sa famille proche :
-	* [[No]], [[Gwilhem]], [[Shinno]], [[Louise]].
+	* [[No]], [[Gwilhem]], [[Shinno]], [[Ninno]], [[Louise]].
 	* Ses tantes [[Fiona]], [[Lewella]] et [[Deirdre]], et [[Eregnae]] qu'elle considère comme une tante.
 	* [[Brand]] et [[Amandine]]
 	* Ses cousines [[Azur]] et [[Jenesser]].

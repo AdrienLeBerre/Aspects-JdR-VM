@@ -3,3 +3,8 @@
 C'est un artefact d'Espace lié à son ascension au statut de [[Magie Primale|mage]] en [[Stellaria]]
 
 Lié à l'aspect [[Territoire secret des mages stellaires]]
+
+
+Contenus :
+* Des tenues pour Louise ([[Attends, essaye moi ça]])
+* Des objets magiques d'un [[Endroit envahi par des démons et des Grimms]]
