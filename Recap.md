@@ -61,7 +61,7 @@ Phoebe est très érudite en [[Démonologie]], notamment avec le Contrat. Mainte
 ### Régler son problème de Hantise
 Phoebe est gênée dans sa pratique artistique par la [[Hantise]], et souhaite régler cela. En particulier lorsqu'elle produit une œuvre, cela résonne dans la Folie, et les créations engendrées sont détournées pour s'attaquer notamment à No
 ### Réunir sa famille
-Son père et sa sœur sont actuellement bannis, ce qu'elle est loin d'apprécier.
+Son père et ses sœurs sont actuellement bannis, ce qu'elle est loin d'apprécier.
 ### Se construire un nid tranquille
 Phoebe cherche des matériaux et des techniques pour se construire une résidence, en haut d'une montagne, qui pourrait dissuader d'attaquer même des immortels.
 
@@ -92,6 +92,8 @@ Phoebe cherche des matériaux, des connaissances, et un endroit pour se construi
 Régler son problème de hantise pour reprendre le contrôle de ce qu'elle crée dans la Folie.
 #### Verlande
 Retrouver un intérêt à [[Verlande]], car ses droits mystiques sur l'endroit ont été cédés rétroactivement à No à un moment, et ses souvenirs d'autres trucs intéressants sont dans le blanc.
+#### Kaoryne
+L'âme de son familier est actuellement fêlée par une influence de l'[[Automne]] : en apprendre plus sur [[Nino]] pourrait donner des pistes à ce sujet
 ### Autres affaires 
 #### Pouvoir enchaîné 
 Aide [[H]] dans son histoire de pouvoir enchaîné par [[Vortigern]], dans l'espoir d'une récompense une fois celui-ci libéré.
