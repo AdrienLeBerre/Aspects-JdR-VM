@@ -1,1 +1,1 @@
-Phoebe est fan du prestidigitateur [[Fragir]]
+Phoebe est fan du prestidigitateur [[Fragir]], et aime la prestidigitation d'une manière générale

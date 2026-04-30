@@ -18,3 +18,6 @@ Phoebe a tendance à pratiquer l'art pour produire des choses esthétiques, mais
 4. Elle a remarqué que beaucoup de choses fondamentales du réel résonnent avec des disciplines artistiques (peintures, livres, poèmes, musiques...) et il y a donc chez elle la conviction que non seulement un sort ou un pentacle démonologique "artistiques" est la "bonne" façon de faire les choses, mais aussi qu'à travers l'art il doit être possible de chercher ce que serait la "vraie" version des choses, derrière les mensonges du monde
 
 Ses créations artistiques résonnent cependant avec quelque chose de fondamental du réel, créant des échos dans la réalité... Et ceux-ci sont instrumentalisés pour s'en prendre notamment à [[No]]
+
+
+Parmi les instruments de musique, Phoebe aime particulièrement des instruments comme le piano (à queue, évidemment) et l'orgue
