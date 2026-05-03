@@ -8,3 +8,7 @@ Lié à l'aspect [[Territoire secret des mages stellaires]]
 Contenus :
 * Des tenues pour Louise ([[Attends, essaye moi ça]])
 * Des objets magiques d'un [[Endroit envahi par des démons et des Grimms]]
+* Loot de la caravane des ronces près de [[Xolapetsui]]
+	* Pigments chelous
+	* Matériaux chelous
+
