@@ -1,1 +1,0 @@
-Terrain sur l'île en périphérie du domaine maritime d'[[Atalantë]] sur lequel une zone d'échanges discrets a été mise en place
