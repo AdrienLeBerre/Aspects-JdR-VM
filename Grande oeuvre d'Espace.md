@@ -11,4 +11,5 @@ Contenus :
 * Loot de la caravane des ronces près de [[Xolapetsui]]
 	* Pigments chelous
 	* Matériaux chelous
+* Une partie du contenu du sac est du toc...
 

@@ -87,6 +87,8 @@ Phoebe cherche des matériaux, des connaissances, et un endroit pour se construi
 * Matériaux de construction spéciaux (principal objet de la quête).
 * Pentacles démonologiques pour maîtriser les conditions mystiques de l'endroit et défendre contre des attaques.
 * Connaissances sur comment se défendre d'attaques dimensionnelles/d'immortels (recherches en cours à la bibliothèque d'Odin).
+#### Soigner la folie de son père
+[[Brand]] est fou, et Phoebe veut l'en soigner
 ### Problèmes personnels à régler
 #### Hantise
 Régler son problème de hantise pour reprendre le contrôle de ce qu'elle crée dans la Folie.
@@ -102,5 +104,6 @@ Aide [[H]] dans son histoire de pouvoir enchaîné par [[Vortigern]], dans l'esp
 Étape actuelle : faire des mesures démonologiques durant différentes cérémonies et fêtes liées aux Traditions dans diverses cultures, et potentiellement se renseigner auprès de factions druidiques de [[Stellaria]].
 #### Magie primale
 Se confronter à des trucs symboliquement et mystiquement notables dans ses Arcanes.
+Son sac magique pourrait aussi être amélioré : il a du mal à préserver les propriétés surnaturelles des objets qui y sont mis, et ne fonctionne pas avec des éléments vivants...
 #### Eugénisme en Stellaria
 Se pencher sur les problématiques eugénistes en [[Stellaria]] tournant autour de sa famille
