@@ -1,7 +1,8 @@
-* Cheveux rouges (parfois teints en noir), raides et très longs
+* Cheveux rouges (parfois teints en noir), raides et très longs, le plus souvent coiffés en longue queue de cheval tenue par un ruban de tissu 
 * Iris dorés
 * Peau pâle
 * Pas très grande (voire plutôt petite)
+  * Porte généralement des talons assez hauts pour comprnser
 * Plutôt menue 
 * Très souple
 * Jeune femme (environ 20 ans en apparence)

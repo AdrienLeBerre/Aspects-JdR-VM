@@ -1,18 +1,10 @@
 Récapitulatif de la personnalité de [[Phoebe]].
-## Valeurs 
-### Juste échange/Commerce équitable
-Phoebe n'aime pas se sentir volée, trompée, ou même utilisée : proches exceptés, si quelqu'un tire profit de ce qu'elle a fait, elle attend de cette personne une rétribution à la mesure des bénéfices obtenus. 
-De la même manière, elle ne cherche ni à extorquer les autres, ni à les rouler.
-### Défendre la Réalité
-Phoebe veut défendre la Réalité. En revanche, elle marque une distinction claire entre la réalité et les intérêts des grands royaumes démiurgiques.
-
-----------------------
 ## Eléments centraux
-
+Phoebe n'acceptera aucun compromis concernant ces éléments, et répondra par l'agression sans limitation quant aux moyens employés.
 ### Tient à son indépendance
-Phoebe abhorre l'idée de se faire posséder ou asservir, peu importe ce qu'on pourrait lui offrir en retour.
+Phoebe abhorre l'idée de se faire posséder ou asservir, peu importe ce qu'on pourrait lui offrir en retour. Evidemment, elle apprécie encore moins d'être utilisée comme un objet dont on exploite les pouvoirs.
 Elle considère de même que des éléments fondamentaux de son existence et de son identité, comme son propre corps, ses souvenirs, ou son esprit n'appartiennent qu'à elle, donc par exemple : 
-* Envisage d'un très mauvais œil qu'on puisse poser des revendications dans ses rêves
+* Envisage d'un très mauvais œil qu'on puisse poser des revendications dans ses rêves.
 * Elle décidera quand elle se mariera, c'est-à-dire jamais.
 * N'aime pas du tout se séparer d'un fragment d'elle (comme un aspect) et le laisser à la portée de quelqu'un.
 
@@ -22,12 +14,21 @@ Phoebe n'a que très peu de proches (dans l'ordre) :
 * Sa famille proche :
 	* [[No]], [[Gwilhem]], [[Shinno]], [[Nino]], [[Louise]].
 	* Ses tantes [[Fiona]], [[Lewella]] et [[Deirdre]], et [[Eregnae]] qu'elle considère comme une tante.
-	* [[Brand]] et [[Amandine]]
+	* [[Brand]] et [[Amandine]].
 	* Ses cousines [[Azur]] et [[Jenesser]].
 * Ses animaux (de très bons amis): [[Kaoryne]], [[Comète]], [[Lévi]]...
 * Ses amis. Elle sociabilise le strict minimum, ou pas loin, et est plutôt misanthrope, donc elle n'en a qu'assez peu. En revanche, ses vrais amis (pas que des connaissances régulières), elle y tient.
 
 Elle n'aime pas du tout l'idée qu'un de ses proches soit en danger, elle veut les aider, et déteste s'engueuler avec eux (surtout avec sa mère et Fiona, qui ont en plus la fâcheuse tendance à avoir toujours raison).
+
+----------------------
+## Valeurs 
+Phoebe conçoit que d'autres de les partagent pas, mais refusera de travailler avec des gens ne les respectant pas.
+### Juste échange/Commerce équitable
+Phoebe n'aime pas se sentir volée, trompée, ou même utilisée : proches exceptés, si quelqu'un tire profit de ce qu'elle a fait, elle attend de cette personne une rétribution à la mesure des bénéfices obtenus.
+De la même manière, elle ne cherche ni à extorquer les autres, ni à les rouler, et accorde une grande importance à sa réputation de partenaire de confiance.
+### Défendre la Réalité
+Phoebe veut défendre la Réalité. En revanche, elle marque une distinction claire entre la réalité et les intérêts des grands royaumes démiurgiques.
 
 ---------------------
 ## Caractère
@@ -89,6 +90,7 @@ Phoebe cherche des matériaux, des connaissances, et un endroit pour se construi
 * Connaissances sur comment se défendre d'attaques dimensionnelles/d'immortels (recherches en cours à la bibliothèque d'Odin).
 #### Soigner la folie de son père
 [[Brand]] est fou, et Phoebe veut l'en soigner
+* Vision de quête à faire.
 ### Problèmes personnels à régler
 #### Hantise
 Régler son problème de hantise pour reprendre le contrôle de ce qu'elle crée dans la Folie.
