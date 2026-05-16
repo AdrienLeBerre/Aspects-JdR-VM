@@ -1,6 +1,6 @@
 Récapitulatif de la personnalité de [[Phoebe]].
 ## Eléments centraux
-Phoebe n'acceptera aucun compromis concernant ces éléments, et répondra par l'agression sans limitation quant aux moyens employés.
+Ces éléments constituent les lignes rouges politiques de Phoebe, sur lesquelles elle ne négociera pas et n'acceptera aucun compromis. Elle mettra un point d’honneur à faire en sorte que quiconque s’en prend à ces éléments constate, a posteriori, que l’opération n’en valait pas le coût.
 ### Tient à son indépendance
 Phoebe abhorre l'idée de se faire posséder ou asservir, peu importe ce qu'on pourrait lui offrir en retour. Evidemment, elle apprécie encore moins d'être utilisée comme un objet dont on exploite les pouvoirs.
 Elle considère de même que des éléments fondamentaux de son existence et de son identité, comme son propre corps, ses souvenirs, ou son esprit n'appartiennent qu'à elle, donc par exemple : 
