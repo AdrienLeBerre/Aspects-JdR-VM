@@ -1,0 +1,1 @@
+Phoebe a une très mauvaise notion du temps : c'est une immortelle donc de base les "petites" durées sont moins significatives, et elle a tendance à facilement se laisser absorber par ce qu'elle fait... En plus avec enfance de folie, ce qui s'est passé avant, après, pas passé, décorrélé, rêvé, bon... Et puis finalement, qui a une notion du temps dans ses rêves ?
