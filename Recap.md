@@ -29,6 +29,14 @@ Phoebe n'aime pas se sentir volée, trompée, ou même utilisée : proches excep
 De la même manière, elle ne cherche ni à extorquer les autres, ni à les rouler, et accorde une grande importance à sa réputation de partenaire de confiance.
 ### Défendre la Réalité
 Phoebe veut défendre la Réalité. En revanche, elle marque une distinction claire entre la réalité et les intérêts des grands royaumes démiurgiques.
+#### Considérations sur les grands royaumes démiurgiques
+* Atalantë (neutre dans son état actuel) : les gens se rappellent qu'elle fait partie d'Atalantë quand ça les arrange, et le reste du temps au mieux la laissent se débrouiller seule s'ils ne tentent pas activement de l'exploiter. Ses dirigeants sont des escrocs et des intrigants déloyaux. D'un autre côté c'est aussi là que son ses tantes et ses cousines...
+* Royaume Eternel (hostile) :
+	* Tant qu'elle reste hors-la-loi par le Royaume Eternel, Phoebe compte ignorer leurs intérêts et revendications lors de ses décisions et s'estime libérée de son obligation de défendre la réalité dans les affaires le concernant (pas qu'elle se sentait particulièrement concernée par leur sort avant, mais à minima elle tâchait de ne pas nuire au Royaume).
+	* A la suite de toute attaque contre elle au motif qu'elle est hors-la-loi, en plus de riposter, Phoebe s'en prendra aux intérêts de la Reine des Tableaux, considérant son décret comme un ordre d'attaque.
+	* D'une manière générale, si le Royaume Eternel est hégémonique dans l'Ether, celui-ci a failli de trop nombreuses fois à empêcher des attaques éthéréiques contre elle, s'il ne les a pas lui-même ordonnées, et elle s'estime donc dans son bon droit à ignorer leur avis quant à ses moyens de défense. Dans le cas contraire, n'étant pas hégémonique, ce qu'elle fait dans l'Ether sans nuire aux autres ne les regarde pas. Dans les deux cas, elle ne reconnaît au Royaume aucun droit à lui interdire de bricoler à sa guise avec l'Ether.
+* Stellaria (favorable) : Cherche à collaborer avec eux... Mais n'a pas totalement confiance quant au fait qu'ils ne chercheront pas à dissoudre des immortels dans Stellaria pour en augmenter la réalité, donc reste sur ses gardes pour ne pas être leur prochaine victime.
+* Dieu Unique : n'a rien de particulier contre le Dieu Unique, mais n'aime pas sa propension à "tâcher" et à s'approprier ce qu'il affecte. Elle évite d'y toucher et essaye de s'en tenir éloignée.
 
 ---------------------
 ## Caractère
