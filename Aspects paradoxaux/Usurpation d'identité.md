@@ -1,0 +1,1 @@
+Phoebe est hors-la-loi du [[Royaume Eternel]] à la suite de ses progrès en [[Magie Primale]], au motif qu'elle est désormais capable de choses qui sont normalement des prérogatives des nobles du Royaume

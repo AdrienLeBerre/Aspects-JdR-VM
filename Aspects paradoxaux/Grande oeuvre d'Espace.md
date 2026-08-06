@@ -13,3 +13,8 @@ Contenus :
 	* Matériaux chelous
 * Une partie du contenu du sac est du toc...
 * Deux coffrets du marché de la [[Cité d’Arteris]]
+
+Ont été trouvés dans le sac, en vrac et entre autres, des focus de :
+* "magie primale" (ou techno similaire de [[Dana]])
+* [[Duché du Renard]]
+* [[Duché de la Licorne]]

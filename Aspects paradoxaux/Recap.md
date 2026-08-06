@@ -27,14 +27,26 @@ Phoebe conçoit que d'autres de les partagent pas, mais refusera de travailler a
 ### Juste échange/Commerce équitable
 Phoebe n'aime pas se sentir volée, trompée, ou même utilisée : proches exceptés, si quelqu'un tire profit de ce qu'elle a fait, elle attend de cette personne une rétribution à la mesure des bénéfices obtenus.
 De la même manière, elle ne cherche ni à extorquer les autres, ni à les rouler, et accorde une grande importance à sa réputation de partenaire de confiance.
+En particulier, en cas d'agression contre elle, elle refuse toute issue qui donnerait un bénéfice à l'agresseur par rapport à la situation avant l'attaque.
 ### Défendre la Réalité
 Phoebe veut défendre la Réalité. En revanche, elle marque une distinction claire entre la réalité et les intérêts des grands royaumes démiurgiques.
 #### Considérations sur les grands royaumes démiurgiques
 * Atalantë (neutre dans son état actuel) : les gens se rappellent qu'elle fait partie d'Atalantë quand ça les arrange, et le reste du temps au mieux la laissent se débrouiller seule s'ils ne tentent pas activement de l'exploiter. Ses dirigeants sont des escrocs et des intrigants déloyaux. D'un autre côté c'est aussi là que son ses tantes et ses cousines...
-* Royaume Eternel (hostile) :
-	* Tant qu'elle reste hors-la-loi par le Royaume Eternel, Phoebe compte ignorer leurs intérêts et revendications lors de ses décisions et s'estime libérée de son obligation de défendre la réalité dans les affaires le concernant (pas qu'elle se sentait particulièrement concernée par leur sort avant, mais à minima elle tâchait de ne pas nuire au Royaume).
-	* A la suite de toute attaque contre elle au motif qu'elle est hors-la-loi, en plus de riposter, Phoebe s'en prendra aux intérêts de la Reine des Tableaux, considérant son décret comme un ordre d'attaque.
-	* D'une manière générale, si le Royaume Eternel est hégémonique dans l'Ether, celui-ci a failli de trop nombreuses fois à empêcher des attaques éthéréiques contre elle, s'il ne les a pas lui-même ordonnées, et elle s'estime donc dans son bon droit à ignorer leur avis quant à ses moyens de défense. Dans le cas contraire, n'étant pas hégémonique, ce qu'elle fait dans l'Ether sans nuire aux autres ne les regarde pas. Dans les deux cas, elle ne reconnaît au Royaume aucun droit à lui interdire de bricoler à sa guise avec l'Ether.
+* Royaume Eternel (ouvertement hostile) :
+	* Considère ses dirigeants au mieux comme hypocrites (la Reine, qui se prétend reine, mais dès qu'il faut assumer la responsabilité des actes commis au nom du Royaume dit qu'elle n'y peut rien) et au pire comme des connards prédateurs (ce qui est l'exact opposé du juste échange qu'aime Phoebe).
+	* Griefs :
+		* Voit la façon dont il a a minima soutenu les attaques contre elle via la Hantise depuis sa jeunesse comme une agression.
+		* Le Royaume protège et supporte des marchands trafiquant des clones d'elle dans son dos.
+		* Le Royaume décrète illégaux les moyens qu'elle développe pour se protéger d'eux, et fait pression sur elle pour qu'elle y renonce.
+		* Le Royaume trafique ouvertement avec des factions qu'il a lui-même déclarées illégales, mais refuse par principe tout accord avec Phoebe.
+		* Le Royaume a systématiquement choisi l'escalade contre elle quand elle essayait de trouver des issues au conflit.
+	* Lignes rouges :
+		* Pas de paix tant que le Royaume continue de soutenir des agressions contre elle, peu importe qu'elles soient importantes ou pas.
+			* N'a pas confiance dans des garanties qui seraient apportées par le Royaume (elle ne refera pas confiance à ses membres avant longtemps) ni de tiers (les autres puissances démiurgiques de la réalité qu'elle fréquente n'ayant jamais pu ou voulu la protéger du Royaume).
+		* Elle ne compte pas accepter d'accord qui soit meilleur ou égal pour le Royaume à ce qu'elle a déjà proposé et que le Royaume a refusé.
+		* Tout accord s'apparentant dans les formes ou dans le fond à une capitulation face aux exigences du Royaume (soumission ou abandon de sa magie) est inacceptable pour elle.
+	* Limites :
+		* De toutes façons si le Royaume continue ses agressions contre elle, elle devra se réincarner (par principe, elle ne veut pas d'une existence où les gens l'agressent gratuitement). Donc elle est prête à risquer cette issue au conflit et, plutôt que l'éviter, elle est plus dans la perspective de faire payer au Royaume un prix démesuré pour ça (que même si elle devait se réincarner, cela ne règle aucun des problèmes que le Royaume a actuellement avec elle, bien au contraire, typiquement en vendant au préalable les prérogatives qu'elle a récupérées sur l'Ether à des factions sachant mieux les exploiter contre le Royaume et bien moins intéressées par un accord).
 * Stellaria (favorable) : Cherche à collaborer avec eux... Mais n'a pas totalement confiance quant au fait qu'ils ne chercheront pas à dissoudre des immortels dans Stellaria pour en augmenter la réalité, donc reste sur ses gardes pour ne pas être leur prochaine victime.
 * Dieu Unique : n'a rien de particulier contre le Dieu Unique, mais n'aime pas sa propension à "tâcher" et à s'approprier ce qu'il affecte. Elle évite d'y toucher et essaye de s'en tenir éloignée.
 
@@ -77,13 +89,15 @@ Phoebe cherche des matériaux et des techniques pour se construire une résidenc
 ------------------------------------------
 ## Lubies
 ### Les montagnes
-Phoebe aime tout particulièrement les régions montagneuses encore assez sauvages.
+Phoebe aime tout particulièrement les régions montagneuses encore assez sauvages. Idéalement avec un escarpement important et de la brume entre les cimes.
 ### Le patinage artistique
 Phoebe apprécie cette pratique réunissant plusieurs formes d'art : musique, danse, soieries, dessin avec les trajectoires des patins sur la glace... Dans l'idéal elle pratique ça pour elle même, sur un lac gelé de montagne.
 ### La Soierie
 Phoebe aime bien la soierie et confectionner ses propres tenues, (bon, avec la hantise, surtout celles de Louise).
 ### Avoir des animaux de compagnie
 Phoebe a toujours été plus à l'aise avec des animaux de compagnie qu'avec des humains, et a tendance à les accumuler.
+* Elle n'aime cependant pas qu'on lui offre des animaux de compagnie : pour elle, ce serait les réduire à des choses échangeables.
+* Gros et fluffy de préférence.
 ### La prestidigitation
 Phoebe aime bien la prestidigitation, et ça l'aide à dissimuler ses usages de magies.
 
@@ -111,7 +125,7 @@ L'âme de son familier est actuellement fêlée par une influence de l'[[Automne
 Aide [[H]] dans son histoire de pouvoir enchaîné par [[Vortigern]], dans l'espoir d'une récompense une fois celui-ci libéré.
 #### Traditions
 Ça aurait été sans doute une quête s'il ne s'agissait pas d'apprendre des trucs... Phoebe s'intéresse aux [[Traditions]] par le prisme de la démonologie, et a repris les recherches de Louise à la bibliothèque d'Odin, dans le but de restaurer un corpus de connaissances théoriques à ce sujet. 
-Étape actuelle : faire des mesures démonologiques durant différentes cérémonies et fêtes liées aux Traditions dans diverses cultures, et potentiellement se renseigner auprès de factions druidiques de [[Stellaria]].
+Étape actuelle : Elle et Louise ont atteint la limite de ce qu'il est empiriquement possible de savoir sur les Traditions. Désormais, il faudrait retrouver des connaissances théoriques. Se renseigner auprès de factions druidiques de [[Stellaria]].
 #### Magie primale
 Se confronter à des trucs symboliquement et mystiquement notables dans ses Arcanes.
 Son sac magique pourrait aussi être amélioré : il a du mal à préserver les propriétés surnaturelles des objets qui y sont mis, et ne fonctionne pas avec des éléments vivants...
